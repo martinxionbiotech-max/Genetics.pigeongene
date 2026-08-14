@@ -1,0 +1,73 @@
+site_name: PigeonGene 遗传知识库
+site_url: https://genetics.pigeongene.com
+site_description: 赛鸽遗传学知识库：8 大性能基因位点、遗传标记、育种遗传与科学遗传规律的权威解读
+site_author: 张家口森诺生物科技有限公司
+copyright: © 张家口森诺生物科技有限公司（SENO Biotech）
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: zh
+  palette:
+    - scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-night
+        name: 切换至深色模式
+    - scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-sunny
+        name: 切换至浅色模式
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - navigation.tracking
+    - toc.integrate
+    - content.code.copy
+  icon:
+    logo: material/dna
+
+nav:
+  - 首页: index.md
+  - 基因百科:
+      - 基因百科总览: genes/index.md
+      - 钙/钙调蛋白依赖性丝氨酸蛋白激酶（CASK）: genes/cask.md
+      - 隐花色素 1（CRY1）: genes/cry1.md
+      - 多巴胺受体 D4（DRD4）: genes/drd4.md
+      - 羽角蛋白基因（F-KER）: genes/f-ker.md
+      - 谷胱甘肽还原酶（GSR）: genes/gsr.md
+      - 乳酸脱氢酶 A（LDHA）: genes/ldha.md
+      - 脂蛋白受体相关蛋白 8（LRP8）: genes/lrp8.md
+      - 肌肉生长抑制素（MSTN）: genes/mstn.md
+  - 遗传标记: genetic-markers.md
+  - 遗传知识:
+      - 遗传知识总览: topics/index.md
+      - 赛鸽 DNA: topics/pigeon-dna.md
+      - 育种遗传: topics/breeding-genetics.md
+      - 性能遗传: topics/performance-genetics.md
+      - 归巢遗传: topics/homing-genetics.md
+      - 耐力遗传: topics/endurance-genetics.md
+      - 肌肉遗传: topics/muscle-genetics.md
+      - 基因型与表型: topics/genotype-phenotype.md
+      - 遗传规律: topics/inheritance.md
+  - 术语表: glossary.md
+  - 常见问题: faq.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+plugins:
+  - search:
+      lang: zh

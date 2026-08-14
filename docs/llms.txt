@@ -1,0 +1,32 @@
+# PigeonGene 遗传知识库
+
+> 赛鸽遗传学知识库：8 大性能基因位点、遗传标记、育种遗传与科学遗传规律的权威解读
+
+- [首页](https://genetics.pigeongene.com/)
+- [CASK（钙/钙调蛋白依赖性丝氨酸蛋白激酶）](https://genetics.pigeongene.com/genes/cask/)
+- [CRY1（隐花色素 1）](https://genetics.pigeongene.com/genes/cry1/)
+- [DRD4（多巴胺受体 D4）](https://genetics.pigeongene.com/genes/drd4/)
+- [F-KER（羽角蛋白基因）](https://genetics.pigeongene.com/genes/f-ker/)
+- [GSR（谷胱甘肽还原酶）](https://genetics.pigeongene.com/genes/gsr/)
+- [LDHA（乳酸脱氢酶 A）](https://genetics.pigeongene.com/genes/ldha/)
+- [LRP8（脂蛋白受体相关蛋白 8）](https://genetics.pigeongene.com/genes/lrp8/)
+- [MSTN（肌肉生长抑制素）](https://genetics.pigeongene.com/genes/mstn/)
+- [赛鸽 DNA](https://genetics.pigeongene.com/topics/pigeon-dna/)
+- [育种遗传](https://genetics.pigeongene.com/topics/breeding-genetics/)
+- [性能遗传](https://genetics.pigeongene.com/topics/performance-genetics/)
+- [归巢遗传](https://genetics.pigeongene.com/topics/homing-genetics/)
+- [耐力遗传](https://genetics.pigeongene.com/topics/endurance-genetics/)
+- [肌肉遗传](https://genetics.pigeongene.com/topics/muscle-genetics/)
+- [基因型与表型](https://genetics.pigeongene.com/topics/genotype-phenotype/)
+- [遗传规律](https://genetics.pigeongene.com/topics/inheritance/)
+- [遗传标记](https://genetics.pigeongene.com/genetic-markers/)
+- [术语表](https://genetics.pigeongene.com/glossary/)
+- [常见问题](https://genetics.pigeongene.com/faq/)
+
+## PigeonGene 生态
+
+- [主站（检测服务）](https://pigeongene.com)
+- [遗传知识库](https://genetics.pigeongene.com)
+- [健康知识库](https://health.pigeongene.com)
+- [科研中心](https://research.pigeongene.com)
+- [在线工具](https://tools.pigeongene.com)
