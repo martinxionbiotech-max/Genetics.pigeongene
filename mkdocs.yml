@@ -55,6 +55,9 @@ nav:
       - 肌肉遗传: topics/muscle-genetics.md
       - 基因型与表型: topics/genotype-phenotype.md
       - 遗传规律: topics/inheritance.md
+      - 伴性遗传: topics/sex-linked-inheritance.md
+      - 近亲繁殖: topics/inbreeding-coefficient.md
+      - 羽色遗传: topics/plumage-color-genetics.md
   - 术语表: glossary.md
   - 常见问题: faq.md
 
