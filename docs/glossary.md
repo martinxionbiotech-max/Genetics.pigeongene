@@ -28,4 +28,10 @@ schema_type: definedtermset
 | 亲缘鉴定 | Parentage Testing | 通过遗传标记分析确认个体间亲子关系的方法。 |
 | DNA 指纹 | DNA Fingerprint | 基于多个遗传标记构建的个体特异性遗传图谱。 |
 | 基因分型 | Genotyping | 检测个体在特定基因位点上基因型的过程。 |
+| 纯合子 | Homozygote | 某基因位点上两个等位基因相同的个体（如 AA、aa）。 |
+| 杂合子 | Heterozygote | 某基因位点上两个等位基因不同的个体（如 Aa）。 |
+| 孟德尔遗传 | Mendelian Inheritance | 由孟德尔揭示的遗传规律，包括分离定律与自由组合定律。 |
+| 候选基因 | Candidate Gene | 基于功能推测可能与某性状相关的基因，需进一步验证。 |
+| 表观遗传 | Epigenetics | 不改变 DNA 序列、但可遗传的基因表达调控变化。 |
+| 遗传标记 | Genetic Marker | 基因组中可被检测的变异位点，用于基因分型与个体识别。 |
 
