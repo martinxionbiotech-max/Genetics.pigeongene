@@ -1,3 +1,9 @@
+---
+title: 多巴胺受体 D4（DRD4）
+description: DRD4（多巴胺受体 D4）是参与赛鸽神经行为调控的基因。本页面介绍其生物学功能、在赛鸽中的角色以及与归巢能力的潜在关联。
+schema_type: article
+---
+
 # 多巴胺受体 D4（DRD4）
 
 

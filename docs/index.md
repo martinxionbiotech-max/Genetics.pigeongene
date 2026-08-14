@@ -1,3 +1,9 @@
+---
+title: 赛鸽遗传知识库
+description: 赛鸽遗传知识库（genetics.pigeongene.com）是 PigeonGene 数字生态的遗传学知识支撑站，为鸽友与育种者提供科学、审慎的赛鸽遗传学知识。
+schema_type: home
+---
+
 # 赛鸽遗传知识库
 
 赛鸽遗传知识库（genetics.pigeongene.com）是 PigeonGene 数字生态的遗传学知识支撑站，为鸽友与育种者提供**科学、审慎**的赛鸽遗传学知识。

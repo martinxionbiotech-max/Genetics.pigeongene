@@ -1,3 +1,9 @@
+---
+title: 遗传知识
+description: 
+schema_type: index
+---
+
 # 遗传知识
 
 ## 遗传知识栏目

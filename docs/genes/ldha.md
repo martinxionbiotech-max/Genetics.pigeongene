@@ -1,3 +1,9 @@
+---
+title: 乳酸脱氢酶 A（LDHA）
+description: LDHA（乳酸脱氢酶 A）是参与赛鸽能量代谢的重要基因。本页面介绍其生物学功能、在赛鸽中的角色以及与飞行性能的潜在关联。
+schema_type: article
+---
+
 # 乳酸脱氢酶 A（LDHA）
 
 
