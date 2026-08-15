@@ -1,8 +1,8 @@
 site_name: PigeonGene 遗传知识库
 site_url: https://genetics.pigeongene.com
 site_description: 赛鸽遗传学知识库：8 大性能基因位点、遗传标记、育种遗传与科学遗传规律的权威解读
-site_author: 张家口森诺生物科技有限公司
-copyright: © 张家口森诺生物科技有限公司（SENO Biotech）
+site_author: 张家口赛诺生物科技有限公司
+copyright: © 张家口赛诺生物科技有限公司（SENO Biotech）
 
 theme:
   name: material
