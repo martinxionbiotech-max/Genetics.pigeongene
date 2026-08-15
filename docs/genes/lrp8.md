@@ -67,5 +67,5 @@ LRP8 参与脂质代谢，其变异可能与能量利用效率相关，但赛鸽
 
 ---
 
-[← 返回基因百科](index.md) · [主站基因检测](https://pigeongene.com/jiyin-jiance/)
+[← 返回基因百科](index.md) · [主站基因检测](https://senopigeon.com/jiyin-jiance/)
 

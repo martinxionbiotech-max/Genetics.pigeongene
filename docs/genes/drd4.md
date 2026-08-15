@@ -66,5 +66,5 @@ Kolvenbag 等（2022）的前瞻性研究将含 DRD4 的基因型谱与比赛成
 
 ---
 
-[← 返回基因百科](index.md) · [主站基因检测](https://pigeongene.com/jiyin-jiance/)
+[← 返回基因百科](index.md) · [主站基因检测](https://senopigeon.com/jiyin-jiance/)
 

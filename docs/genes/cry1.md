@@ -65,5 +65,5 @@ CRY1 存在多个 SNP 位点，可作为基因分型标记。
 
 ---
 
-[← 返回基因百科](index.md) · [主站基因检测](https://pigeongene.com/jiyin-jiance/)
+[← 返回基因百科](index.md) · [主站基因检测](https://senopigeon.com/jiyin-jiance/)
 

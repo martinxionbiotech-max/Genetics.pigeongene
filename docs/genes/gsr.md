@@ -65,5 +65,5 @@ GSR 参与抗氧化，其变异可能与应激恢复相关，但恢复速度受�
 
 ---
 
-[← 返回基因百科](index.md) · [主站基因检测](https://pigeongene.com/jiyin-jiance/)
+[← 返回基因百科](index.md) · [主站基因检测](https://senopigeon.com/jiyin-jiance/)
 

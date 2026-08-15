@@ -65,5 +65,5 @@ F-KER 代表羽角蛋白基因家族，编码构成羽毛的角蛋白。角蛋�
 
 ---
 
-[← 返回基因百科](index.md) · [主站基因检测](https://pigeongene.com/jiyin-jiance/)
+[← 返回基因百科](index.md) · [主站基因检测](https://senopigeon.com/jiyin-jiance/)
 

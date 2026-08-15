@@ -65,5 +65,5 @@ MSTN 是肌肉生长负调控因子，其变异与肌肉发育相关，但赛鸽
 
 ---
 
-[← 返回基因百科](index.md) · [主站基因检测](https://pigeongene.com/jiyin-jiance/)
+[← 返回基因百科](index.md) · [主站基因检测](https://senopigeon.com/jiyin-jiance/)
 

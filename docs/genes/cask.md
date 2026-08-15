@@ -65,5 +65,5 @@ CASK 参与突触功能，其变异可能与学习能力相关，但赛鸽中的
 
 ---
 
-[← 返回基因百科](index.md) · [主站基因检测](https://pigeongene.com/jiyin-jiance/)
+[← 返回基因百科](index.md) · [主站基因检测](https://senopigeon.com/jiyin-jiance/)
 

@@ -70,5 +70,5 @@ Proskura 等（2014）的研究分析了信鸽 LDHA 基因 SNP 与比赛成绩�
 
 ---
 
-[← 返回基因百科](index.md) · [主站基因检测](https://pigeongene.com/jiyin-jiance/)
+[← 返回基因百科](index.md) · [主站基因检测](https://senopigeon.com/jiyin-jiance/)
 
