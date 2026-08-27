@@ -52,3 +52,9 @@ schema_type: article
 - [肌肉遗传](muscle-genetics.md)
 - [性能遗传](performance-genetics.md)
 - [LRP8 基因](../genes/lrp8.md)
+
+---
+
+## 主站检测服务
+
+了解更多赛鸽飞行能力基因检测服务，欢迎访问 [赛诺基因检测中心主站 → 飞行能力基因检测](https://senopigeon.com/jiyin-jiance/)。

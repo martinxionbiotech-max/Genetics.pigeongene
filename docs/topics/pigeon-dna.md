@@ -44,3 +44,8 @@ DNA 检测通过分析赛鸽基因组中的特定标记，获取遗传信息。�
 - [遗传标记](../genetic-markers.md)
 - [基因百科](../genes/index.md)
 
+---
+
+## 主站检测服务
+
+了解更多赛鸽飞行能力基因检测服务，欢迎访问 [赛诺基因检测中心主站 → 飞行能力基因检测](https://senopigeon.com/jiyin-jiance/)。

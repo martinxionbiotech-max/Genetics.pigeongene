@@ -49,3 +49,9 @@ schema_type: article
 - [MSTN 基因](../genes/mstn.md)
 - [耐力遗传](endurance-genetics.md)
 - [性能遗传](performance-genetics.md)
+
+---
+
+## 主站检测服务
+
+了解更多赛鸽飞行能力基因检测服务，欢迎访问 [赛诺基因检测中心主站 → 飞行能力基因检测](https://senopigeon.com/jiyin-jiance/)。

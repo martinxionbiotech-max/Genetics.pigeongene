@@ -41,3 +41,9 @@ schema_type: article
 
 - [基因型与表型](genotype-phenotype.md)
 - [遗传规律](inheritance.md)
+
+---
+
+## 主站检测服务
+
+了解更多赛鸽飞行能力基因检测服务，欢迎访问 [赛诺基因检测中心主站 → 飞行能力基因检测](https://senopigeon.com/jiyin-jiance/)。
