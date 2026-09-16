@@ -1,6 +1,6 @@
 ---
 title: 术语表
-description: 
+description: 赛鸽遗传学常用术语表，涵盖 DNA、基因型、表型、SNP、STR、数量性状、遗传力等 20 个核心概念的通俗解释。
 schema_type: definedtermset
 ---
 
