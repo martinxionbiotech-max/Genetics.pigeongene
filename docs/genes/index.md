@@ -1,7 +1,40 @@
 ---
 title: 基因百科
 description: 本站收录 8 个赛鸽飞行能力相关基因位点的百科条目。
-schema_type: index
+schema_type: definedtermset
+defined_terms:
+  - name: LDHA（乳酸脱氢酶 A）
+    code: LDHA
+    desc: 能量代谢相关基因，与竞翔存活率存在统计学关联
+    url: https://genetics.senopigeon.com/genes/ldha/
+  - name: DRD4（多巴胺受体 D4）
+    code: DRD4
+    desc: 多巴胺信号相关基因，与竞翔表现存在统计学关联
+    url: https://genetics.senopigeon.com/genes/drd4/
+  - name: CRY1（隐花色素 1）
+    code: CRY1
+    desc: 昼夜节律相关基因，与竞翔表现存在统计学关联
+    url: https://genetics.senopigeon.com/genes/cry1/
+  - name: MSTN（肌肉生长抑制素）
+    code: MSTN
+    desc: 肌肉发育调控基因，鸽类证据有限
+    url: https://genetics.senopigeon.com/genes/mstn/
+  - name: LRP8（脂蛋白受体相关蛋白 8）
+    code: LRP8
+    desc: 脂质转运相关基因，与竞翔表现存在统计学关联
+    url: https://genetics.senopigeon.com/genes/lrp8/
+  - name: GSR（谷胱甘肽还原酶）
+    code: GSR
+    desc: 抗氧化相关基因，与竞翔表现存在统计学关联
+    url: https://genetics.senopigeon.com/genes/gsr/
+  - name: CASK（钙/钙调蛋白依赖性丝氨酸蛋白激酶）
+    code: CASK
+    desc: 突触功能相关基因，多态性鉴定
+    url: https://genetics.senopigeon.com/genes/cask/
+  - name: F-KER（羽角蛋白基因）
+    code: F-KER
+    desc: 羽毛角蛋白基因，多态性鉴定
+    url: https://genetics.senopigeon.com/genes/f-ker/
 ---
 
 # 基因百科
