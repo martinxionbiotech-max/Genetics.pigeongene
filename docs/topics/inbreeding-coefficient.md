@@ -62,4 +62,4 @@ schema_type: article
 
 ---
 
-[← 返回遗传知识](index.md) · [基因百科](../genes/index.md) · [主站基因检测](https://senopigeon.com/jiyin-jiance/)
+[← 返回遗传知识](index.md) · [基因百科](../genes/index.md) · [主站基因检测](https://senopigeon.com/jiyin-jiance/) · [近交系数计算器](https://tool.senopigeon.com/inbreeding-calculator/)
