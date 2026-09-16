@@ -1,6 +1,6 @@
 ---
 title: 遗传知识
-description: 
+description: 遗传主题索引：赛鸽遗传学 12 大主题导读，涵盖育种遗传、性能遗传、归巢与耐力遗传、基因型与表型等核心概念。
 schema_type: index
 ---
 
