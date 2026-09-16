@@ -1,6 +1,6 @@
 # PigeonGene 遗传知识库
 
-> 赛鸽遗传学知识库：8 大性能基因位点、遗传标记、育种遗传与科学遗传规律的权威解读
+> 赛鸽遗传学知识库：8 个性能相关基因位点、遗传标记、育种遗传与科学遗传规律的科普解读
 
 - [首页](https://genetics.senopigeon.com/)
 - [CASK（钙/钙调蛋白依赖性丝氨酸蛋白激酶）](https://genetics.senopigeon.com/genes/cask/)
@@ -21,6 +21,10 @@
 - [遗传规律](https://genetics.senopigeon.com/topics/inheritance/)
 - [遗传标记](https://genetics.senopigeon.com/genetic-markers/)
 - [术语表](https://genetics.senopigeon.com/glossary/)
+- [遗传主题索引](https://genetics.senopigeon.com/topics/)
+- [近交系数](https://genetics.senopigeon.com/topics/inbreeding-coefficient/)
+- [羽色遗传](https://genetics.senopigeon.com/topics/plumage-color-genetics/)
+- [伴性遗传](https://genetics.senopigeon.com/topics/sex-linked-inheritance/)
 - [常见问题](https://genetics.senopigeon.com/faq/)
 
 ## PigeonGene 生态
