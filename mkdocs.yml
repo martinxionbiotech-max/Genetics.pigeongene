@@ -61,6 +61,38 @@ nav:
   - 术语表: glossary.md
   - 常见问题: faq.md
 
+  - English:
+      - Overview: en/index.md
+      - Gene Encyclopedia:
+          - Genes Overview: en/genes/index.md
+          - CASK: en/genes/cask.md
+          - CRY1: en/genes/cry1.md
+          - DRD4: en/genes/drd4.md
+          - F-KER: en/genes/f-ker.md
+          - GSR: en/genes/gsr.md
+          - LDHA: en/genes/ldha.md
+          - LRP8: en/genes/lrp8.md
+          - MSTN: en/genes/mstn.md
+      - Genetic Markers: en/genetic-markers.md
+      - Genetics Topics:
+          - Topics Overview: en/topics/index.md
+          - Racing Pigeon DNA: en/topics/pigeon-dna.md
+          - Breeding Genetics: en/topics/breeding-genetics.md
+          - Performance Genetics: en/topics/performance-genetics.md
+          - Homing Genetics: en/topics/homing-genetics.md
+          - Endurance Genetics: en/topics/endurance-genetics.md
+          - Muscle Genetics: en/topics/muscle-genetics.md
+          - Genotype and Phenotype: en/topics/genotype-phenotype.md
+          - Patterns of Inheritance: en/topics/inheritance.md
+          - Sex-Linked Inheritance: en/topics/sex-linked-inheritance.md
+          - Inbreeding Coefficient: en/topics/inbreeding-coefficient.md
+          - Plumage Colour Genetics: en/topics/plumage-color-genetics.md
+      - Glossary: en/glossary.md
+      - FAQ: en/faq.md
+
+hooks:
+  - hooks/i18n_lang.py
+
 markdown_extensions:
   - admonition
   - attr_list
